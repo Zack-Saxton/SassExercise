@@ -1,0 +1,33 @@
+.main h1:hover, .minor h1, .minor h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+.main {
+  background: #d2b48c;
+}
+
+.main h1 {
+  color: #dddddd;
+}
+
+.main h1:hover {
+  text-decoration: line-through;
+}
+
+.main h2, .main h3 {
+  background-color: #964b00;
+}
+
+.minor {
+  background: silver;
+}
+
+.minor h1, .minor h2 {
+  text-decoration: line-through;
+}
+
+.minor h1 {
+  margin-bottom: 4rem;
+}
+/*# sourceMappingURL=main.css.map */
